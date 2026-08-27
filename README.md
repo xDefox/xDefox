@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xDefox
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Valery
 - 📫 How to reach me celerval5@gmail.com
 -  or tg: @WhatMeIsLove
