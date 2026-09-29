@@ -1,5 +1,49 @@
-- 👋 Hi, I’m @xDefox
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 📫 How to reach me celerval5@gmail.com
--  or tg: @WhatMeIsLove
+<h1 align="center">Доброго времени суток 👋 Я Владислав</h1>
+<h3 align="center">Студент 4 курса CS / Software Engineer & Junior QA / Python Developer</h3>
+
+<p align="center">
+  Увлекаюсь бэкенд-разработкой, автоматизацией, тестированием программного обеспечения и созданием прикладных систем. Активно совмещаю учебу в университете с практической разработкой и научно-исследовательскими проектами.
+</p>
+
+---
+
+### 🛠 Стек технологий и инструменты
+
+* **Языки программирования:** Python, C#, SQL
+* **Тестирование & QA:** Тестирование требований, составление тест-кейсов, чек-листов и баг-репортов, функциональное и регрессионное тестирование
+* **Бэкенд & Базы данных:** MySQL, SQLAlchemy
+* **Инструменты и окружение:** Git, VS Code, uv, Linux
+
+---
+
+### 🎓 Научная деятельность и университетские проекты
+* **Система интеллектуального управления дорожным движением** — разработка и проектирование архитектуры умного светофорного узла для оптимизации трафика. Проект готовился для участия в республиканском конкурсе **«Space Unicersity»**.
+* **Исследовательские и прикладные университетские работы** по системному анализу, алгоритмизации и проектированию программных модулей.
+
+---
+
+### 🚀 Избранные проекты (Portfolio & CV Showcase)
+
+Здесь собраны ключевые работы, демонстрирующие мои навыки в разработке, парсинге и обеспечении качества (QA):
+
+| Репозиторий / Проект | Описание и стек | Ключевые особенности |
+| :--- | :--- | :--- |
+| **[intelligent-traffic-control-system](https://github.com/xDefox/intelligent-traffic-control-system)** | **Python / Системная архитектура** | Проект умных светофоров (разработка в рамках подготовки к конкурсу «Space University»). |
+| **[Witcher_game_qa_report](https://github.com/xDefox/Witcher_game_qa_report)** | **QA / Testing Documentation** | Прикладной артефакт по обеспечению качества: структурированные тест-кейсы, подробные баг-репорты. |
+| **[-parser](https://github.com/xDefox/-parser)** | **Python / Data Extraction** | Инструмент для парсинга и сбора данных с веб ресурса университета, и вывода информации о зачётке. |
+| **[NetManager](https://github.com/xDefox/NetManager)** | **Python / NetworkTool** | Приложение для управления сетевой маршрутизацией. |
+
+---
+
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xDefox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDefox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Как связаться со мной
+* **Telegram:** [Vlad.Os](https://t.me/@WhatMeIsLove)
+* **GitHub:** [xDefox](https://github.com/xDefox)
