@@ -1,40 +1,54 @@
-<h1 align="center">Доброго времени суток 👋 Я Владислав</h1>
-<h3 align="center">Студент 4 курса CS / Software Engineer & Junior QA / Python Developer</h3>
+<h1 align="center">Привет 👋 Я Владислав (xDefox)</h1>
+<h3 align="center">QA Engineer · Python Developer</h3>
 
 <p align="center">
-  Увлекаюсь бэкенд-разработкой, автоматизацией, тестированием программного обеспечения и созданием прикладных систем. Активно совмещаю учебу в университете с практической разработкой и научно-исследовательскими проектами.
+  Студент 4 курса CS. Совмещаю учёбу с практикой: автотесты, ручное тестирование и бэкенд на Python.
+  Ищу стажировку / junior-позицию в QA.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
 
-### 🛠 Стек технологий и инструменты
+### 🧭 Чем занимаюсь
 
-* **Языки программирования:** Python, C#, SQL
-* **Тестирование & QA:** Тестирование требований, составление тест-кейсов, чек-листов и баг-репортов, функциональное и регрессионное тестирование
-* **Бэкенд & Базы данных:** MySQL, SQLAlchemy
-* **Инструменты и окружение:** Git, VS Code, uv, Linux
+- **QA:** тестирование требований, чек-листы и тест-кейсы, баг-репорты, функциональное и регрессионное тестирование
+- **Автотесты:** Selenium + pytest (Page Object), API-тесты (FastAPI TestClient, requests), прогон в GitHub Actions
+- **Разработка:** Python-бэкенд (FastAPI, SQLAlchemy, MySQL), GUI на Flet, парсинг и автоматизация
 
----
+### 🛠 Стек
 
-### 🎓 Научная деятельность и университетские проекты
-* **Система интеллектуального управления дорожным движением** — разработка и проектирование архитектуры умного светофорного узла для оптимизации трафика. Проект готовился для участия в республиканском конкурсе **«Space Unicersity»**.
-* **Исследовательские и прикладные университетские работы** по системному анализу, алгоритмизации и проектированию программных модулей.
+| | |
+| :--- | :--- |
+| **Языки** | Python, SQL, C#, Java |
+| **QA / Testing** | pytest, Selenium, тест-дизайн, баг-репорты, чек-листы |
+| **Бэкенд / БД** | FastAPI, SQLAlchemy, MySQL, SQLite, REST, WebSocket |
+| **Инструменты** | Git, GitHub Actions, Linux, VS Code, uv |
 
----
+### 🚀 Избранные проекты
 
-### 🚀 Избранные проекты (Portfolio & CV Showcase)
-
-Здесь собраны ключевые работы, демонстрирующие мои навыки в разработке, парсинге и обеспечении качества (QA):
-
-| Репозиторий / Проект | Описание и стек | Ключевые особенности |
+| Проект | Стек | Что демонстрирует |
 | :--- | :--- | :--- |
-| **[intelligent-traffic-control-system](https://github.com/xDefox/intelligent-traffic-control-system)** | **Python / Системная архитектура** | Проект умных светофоров (разработка в рамках подготовки к конкурсу «Space University»). |
-| **[Witcher_game_qa_report](https://github.com/xDefox/Witcher_game_qa_report)** | **QA / Testing Documentation** | Прикладной артефакт по обеспечению качества: структурированные тест-кейсы, подробные баг-репорты. |
-| **[-parser](https://github.com/xDefox/-parser)** | **Python / Data Extraction** | Инструмент для парсинга и сбора данных с веб ресурса университета, и вывода информации о зачётке. |
-| **[NetManager](https://github.com/xDefox/NetManager)** | **Python / NetworkTool** | Приложение для управления сетевой маршрутизацией. |
+| **[First_AQA_project](https://github.com/xDefox/First_AQA_project)** | Python · Selenium · pytest | UI-автотесты по паттерну Page Object |
+| **[Witcher_game_qa_report](https://github.com/xDefox/Witcher_game_qa_report)** | QA-документация | Структурированные баг-репорты и performance-логи |
+| **[MTS_Hacaton_AI_Agent](https://github.com/xDefox/MTS_Hacaton_AI_Agent)** | Python · FastAPI · LLM | Хакатон-проект: ИИ-секретарь + offline-тесты в CI |
+| **[-parser](https://github.com/xDefox/-parser)** | Python · Flet | «ВГТУ Зачётка»: парсинг API, сборка APK |
+| **[intelligent-traffic-control-system](https://github.com/xDefox/intelligent-traffic-control-system)** | Python · Unity | Умный светофорный узел для конкурса «Space University» |
+| **[NetManager](https://github.com/xDefox/NetManager)** | Python · Scapy | Анализ и тестирование защищённости локальной сети |
 
----
+### 🎓 Наука и университет
 
-### 📫 Как связаться со мной
-* **Telegram:** [Vlad.Os](https://t.me/@WhatMeIsLove)
-* **GitHub:** [xDefox](https://github.com/xDefox)
+- **Система интеллектуального управления дорожным движением** — архитектура умного светофорного узла для оптимизации трафика; проект готовился для республиканского конкурса «Space University».
+- Исследовательские и прикладные работы по системному анализу, алгоритмизации и проектированию программных модулей.
+
+### 📫 Контакты
+
+- **Telegram:** [@WhatMeIsLove](https://t.me/WhatMeIsLove)
+- **GitHub:** [xDefox](https://github.com/xDefox)
